@@ -50,7 +50,9 @@ __To tackle this issue we will build a machine learning model trained on the Hou
 * Linear Regression is a statistical method used for modeling the relationship between a dependent variable and one or more independent variables. The goal is to find the line that best fits the data. This is done by minimizing the sum of the squared differences between the observed and predicted values. Linear regression assumes that the relationship between variables is linear.Both Random forest and linear regressin models are shown below
 https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150908.png
 * You can get the pdf formart of the google colab notebook here https://github.com/HenrySsali/Property-price/blob/main/house-1.pdf
-* The google colab formart is as here 
+* The google colab formart is as here https://github.com/HenrySsali/Property-price/blob/main/House%20(1).ipynb
+# Conclusion 
+* Clearly support vector machines model is giving better accuracy as the mean absolute error is the least amongs all the other regressor model ,whereby svm is 16.75% ,Random forest is 18.70% and linear regression is 18.83%.
 
 
  
