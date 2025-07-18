@@ -18,9 +18,10 @@ __To tackle this issue we will build a machine learning model trained on the Hou
 # Step 3: Exploratory Data Analysis
 * EDA refers to the deep analysis of data so as to discover different patterns and spot anomalies. Before making inferences from data it is essential to examine all your variables. So here let's make a heatmap using seaborn library.https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150432.png
 * We use the heatmap to show the correction between the categorical data 
-link 2 https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150451.png
-*https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150549.png
+ https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150451.png
+* We need to idenfity how many categorical data we have in our dataseet.https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150549.png
 *  Lets visualize the counts of the categorical data we have in our dataset  https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150607.png
+*  The plot shows that Exterior1st has around 16 unique categories and other features have around  6 unique categories. To findout the actual count of each category we can plot the bargraph of each four features separately.
   
   
  
