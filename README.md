@@ -22,7 +22,7 @@ __To tackle this issue we will build a machine learning model trained on the Hou
 * We need to idenfity how many categorical data we have in our dataseet.https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150549.png
 *  Lets visualize the counts of the categorical data we have in our dataset  https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150607.png
 *  The plot shows that Exterior1st has around 16 unique categories and other features have around  6 unique categories. To findout the actual count of each category we can plot the bargraph of each four features separately.https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150622.png
-*  We then visualize from the code above 
+*  We then visualize from the code above https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150637.png
   
   
  
