@@ -45,10 +45,11 @@ __To tackle this issue we will build a machine learning model trained on the Hou
 * SVM-Support Vector Machine
 * Random Forest Regressor
 * Linear Regressor
-* Support vector Machine is a supervised machine learning algorithm primarily used for classification tasks though it can also be used for regression. It works by finding the hyperplane that best divides a dataset into classes. The goal is to maximize the margin between the data points and the hyperplane.
+* Support vector Machine is a supervised machine learning algorithm primarily used for classification tasks though it can also be used for regression. It works by finding the hyperplane that best divides a dataset into classes. The goal is to maximize the margin between the data points and the hyperplane.https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150847.png
 * Random Forest is an ensemble learning algorithm used for both classification and regression tasks. It constructs multiple decision trees during training where each tree in the forest is built on a random subset of the data and features, ensuring diversity in the model. The final output is determined by averaging the outputs of individual trees (for regression) or by majority voting (for classification).
 * Linear Regression is a statistical method used for modeling the relationship between a dependent variable and one or more independent variables. The goal is to find the line that best fits the data. This is done by minimizing the sum of the squared differences between the observed and predicted values. Linear regression assumes that the relationship between variables is linear.Both Random forest and linear regressin models are shown below
 https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150908.png
+* You can get the pdf formart of the google colab notebook here 
 
 
  
