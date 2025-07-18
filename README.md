@@ -33,6 +33,7 @@ __To tackle this issue we will build a machine learning model trained on the Hou
   https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150729.png
 # Step 5: One Hot Encoder 
 * One hot Encoding is the best way to convert categorical data into binary vectors. This maps the values to integer values. By using OneHotEncoder, we can easily convert object data into int. So for that firstly we have to collect all the features which have the object datatype. To do so, we will make a loop.
+* https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150801.png
 * Then once we have a list of all the features. We can apply OneHotEncoding to the whole list.
 # Step 6: Splitting Dataset into Training and Testing 
 * X and y splitting (i.e. Y is the SalePrice column and the rest of the other columns are X)
