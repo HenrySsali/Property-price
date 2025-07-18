@@ -14,5 +14,7 @@ __To tackle this issue we will build a machine learning model trained on the Hou
 * In the above step we go ahead to identify the shape of our dataset,to determine the volume of it which is (2919,13).
 * To clearly understand step 1 click here https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150256.png
 # Step 2: Data preprocessing
-* Now, we categorize the features depending on their datatype (int, float, object) and then calculate the number of them. As shown here 
+* Now, we categorize the features depending on their datatype (int, float, object) and then calculate the number of them. As shown here https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150408.png
+# Step 3: Exploratory Data Analysis
+* EDA refers to the deep analysis of data so as to discover different patterns and spot anomalies. Before making inferences from data it is essential to examine all your variables. So here let's make a heatmap using seaborn library.
  
