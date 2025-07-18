@@ -38,6 +38,7 @@ __To tackle this issue we will build a machine learning model trained on the Hou
   https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150816.png
 # Step 6: Splitting Dataset into Training and Testing 
 * X and y splitting (i.e. Y is the SalePrice column and the rest of the other columns are X)
+  https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150831.png
 # Step 7: Model Training and Accuracy 
 * As we have to train the model to determine the continuous values, so we will be using these regression models.
 
