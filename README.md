@@ -30,6 +30,7 @@ __To tackle this issue we will build a machine learning model trained on the Hou
 * Drop records with null values (as the empty records are very less).
   https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150716.png
 * Checking features which have null values in the new dataframe (if there are still any).
+  https://github.com/HenrySsali/Property-price/blob/main/images/Screenshot%202025-07-15%20150729.png
 # Step 5: One Hot Encoder 
 * One hot Encoding is the best way to convert categorical data into binary vectors. This maps the values to integer values. By using OneHotEncoder, we can easily convert object data into int. So for that firstly we have to collect all the features which have the object datatype. To do so, we will make a loop.
 * Then once we have a list of all the features. We can apply OneHotEncoding to the whole list.
